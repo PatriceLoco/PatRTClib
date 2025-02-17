@@ -1,0 +1,22 @@
+{
+  "name": "PatRTClib",
+  "keywords": "display, lcd, oled, eink",
+  "description": "Works with DS1307, DS3231, PCF8523, PCF8563 on multiple architectures",
+  "homepage": "https://github.com/patriceloco/PatRTClib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patriceloco/PatRTClib.git"
+  },
+  "version": "0.0.3",
+  "license": "BSD-2-Clause",
+  "authors": {
+    "name": "PatriceLoco",
+    "email": "patricelocoolikraus@gmail.com",
+    "maintainer": true
+  },
+  "frameworks": "arduino",
+  "platforms": "*",
+  "build": {
+    "libLDFMode": "chain+"
+  }
+}

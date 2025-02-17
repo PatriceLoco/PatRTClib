@@ -43,7 +43,7 @@
 */
 /**************************************************************************/
 
-#include "RTClib.h"
+#include "PatRTClib.h"
 
 #ifdef __AVR__
 #include <avr/pgmspace.h>
